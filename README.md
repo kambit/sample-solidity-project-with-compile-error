@@ -1,0 +1,1 @@
+# sample-solidity-project-with-compile-error
